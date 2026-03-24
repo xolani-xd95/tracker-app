@@ -1,0 +1,37 @@
+{
+  "id": "trk_7aa1d2",
+  "tracking_number": "9400111899223197428499",
+  "carrier": "Universal Post",
+  "title": "Shoes",
+  "status": "delivered",
+  "eta": null,
+  "last_update": "2026-02-19T08:01:00Z",
+  "origin": {
+    "city": "Portland",
+    "country": "US"
+  },
+  "destination": {
+    "city": "Chicago",
+    "country": "US"
+  },
+  "checkpoints": [
+    {
+      "time": "2026-02-17T12:30:00Z",
+      "location": "Portland, US",
+      "status": "picked_up",
+      "message": "Shipment created"
+    },
+    {
+      "time": "2026-02-18T07:40:00Z",
+      "location": "Denver, US",
+      "status": "in_transit",
+      "message": "Arrived at facility"
+    },
+    {
+      "time": "2026-02-19T08:01:00Z",
+      "location": "Chicago, US",
+      "status": "delivered",
+      "message": "Delivered to front door"
+    }
+  ]
+}

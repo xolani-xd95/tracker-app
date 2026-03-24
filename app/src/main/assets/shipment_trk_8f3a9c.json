@@ -1,0 +1,37 @@
+{
+  "id": "trk_8f3a9c",
+  "tracking_number": "1Z999AA10123456784",
+  "carrier": "Acme Express",
+  "title": "Laptop order",
+  "status": "in_transit",
+  "eta": "2026-03-05T18:00:00Z",
+  "last_update": "2026-02-25T14:12:00Z",
+  "origin": {
+    "city": "Shenzhen",
+    "country": "CN"
+  },
+  "destination": {
+    "city": "Austin",
+    "country": "US"
+  },
+  "checkpoints": [
+    {
+      "time": "2026-02-20T08:15:00Z",
+      "location": "Shenzhen, CN",
+      "status": "picked_up",
+      "message": "Package received"
+    },
+    {
+      "time": "2026-02-22T21:03:00Z",
+      "location": "Anchorage, US",
+      "status": "in_transit",
+      "message": "Arrived at facility"
+    },
+    {
+      "time": "2026-02-25T14:12:00Z",
+      "location": "Austin, US",
+      "status": "in_transit",
+      "message": "Departed facility"
+    }
+  ]
+}

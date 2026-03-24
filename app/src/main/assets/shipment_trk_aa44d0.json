@@ -1,0 +1,37 @@
+{
+  "id": "trk_aa44d0",
+  "tracking_number": "LV987654321US",
+  "carrier": "Acme Express",
+  "title": "Headphones",
+  "status": "exception",
+  "eta": null,
+  "last_update": "2026-02-24T12:30:00Z",
+  "origin": {
+    "city": "Berlin",
+    "country": "DE"
+  },
+  "destination": {
+    "city": "Madrid",
+    "country": "ES"
+  },
+  "checkpoints": [
+    {
+      "time": "2026-02-23T10:00:00Z",
+      "location": "Berlin, DE",
+      "status": "picked_up",
+      "message": "Package picked up"
+    },
+    {
+      "time": "2026-02-24T11:00:00Z",
+      "location": "Madrid, ES",
+      "status": "in_transit",
+      "message": "Arrived at facility"
+    },
+    {
+      "time": "2026-02-24T12:30:00Z",
+      "location": "Madrid, ES",
+      "status": "exception",
+      "message": "Processing delay"
+    }
+  ]
+}
