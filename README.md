@@ -1,6 +1,10 @@
 # TrackerConnect
 A modern Android application for tracking shipments and parcels built with Jetpack Compose, following Clean Architecture principles and Material Design 3 guidelines.
 
+# Demo Video
+
+https://github.com/user-attachments/assets/9cbb50fa-0fb0-45f7-89fc-d8fc6702fd86
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
